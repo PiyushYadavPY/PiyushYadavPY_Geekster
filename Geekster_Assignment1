@@ -3,7 +3,7 @@ code =>
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello I am enjoying coding");
-        
+       
     }
 }
 
@@ -64,7 +64,7 @@ public class Main {
     }
 }
 
-6)6) Print the below pattern
+6) Print the below pattern
 * *
 * *
 * *
@@ -83,12 +83,14 @@ public class Main {
     }
 }
 
+
 7)Find the last digit of the number 987653.
 public class Main {
     public static void main(String[] args) {
         System.out.println("The last disgit of 987653 is"+ (987653%10));
 }
 }
+
 8)Store values 15, 4 in m and n variable of int data type then
 Print value of m+n in the first line,
 Print value of m-n in the second line,
