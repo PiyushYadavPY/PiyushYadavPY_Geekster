@@ -1,0 +1,20 @@
+1)
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int d = sc.nextInt();
+        double area = 3.14*(d/2 * d/2);
+        System.out.println(area);
+}
+}
+
+2)
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        Double x = sc.nextDouble();
+        Double y = sc.nextDouble();
+        Double area = (x*y)/2;
+        System.out.println(area);
+}
+}
